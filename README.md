@@ -1,5 +1,4 @@
-# squabbles-summarybot
-@summarybot for squabbles.io
+# ModBot for Squabblr
+@modbot for squabblr.co
 
-
-Please feel free to raise a Pull Request or an Issue.
+In development moderation bot that started as a fork of [squabbles-summary-bot](https://github.com/thatjpcsguy/squabbles-summarybot).
