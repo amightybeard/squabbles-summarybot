@@ -13,3 +13,4 @@ In development moderation bot that started as a fork of [squabbles-summarybot](h
 - Somehow set up a way for this to be all set up by a mod via DM to @modbot?
 - If we ever get a "held for moderation" type system in Squabblr, auto-hold all new posts. Could possibly include a whitelist. (maybe based on [SourceIt](https://github.com/voussoir/reddit/tree/master/_old/SourceIt))
 - Auto welcome post to new posts (and subscribers?) to the community. (maybe based on [WelcomeBot](https://github.com/voussoir/reddit/tree/master/_old/WelcomeBot))
+- Add ban functionality from the comments, rather than jumping into the community settings.
