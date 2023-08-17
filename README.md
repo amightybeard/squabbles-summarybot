@@ -8,7 +8,7 @@ In development moderation bot that started as a fork of [squabbles-summarybot](h
 - Auto lock threads based on some kind of circumstance that will be determined later.
 - Integration with Discord to notify you of things(?) or manage.
 - `!remindme` handling (maybe based on [remindmebot-reddit](https://github.com/SIlver--/remindmebot-reddit))
-- Notify mod based on keyword scans within their community posts/comments. (maybe based on [ReplyBot](https://github.com/voussoir/reddit/tree/master/_old/ReplyBot))
+- Notify mod based on keyword scans within their community posts/comments. (maybe based on [ReplyBot](https://github.com/voussoir/reddit/tree/master/_old/ReplyBot) or [Alert-Bot-Reddit](https://github.com/tylerbrockett/Alert-Bot-Reddit))
 - Notify mod via email (maybe based on [MailMe](https://github.com/voussoir/reddit/tree/master/_old/MailMe))
 - Somehow set up a way for this to be all set up by a mod via DM to @modbot?
 - If we ever get a "held for moderation" type system in Squabblr, auto-hold all new posts. Could possibly include a whitelist. (maybe based on [SourceIt](https://github.com/voussoir/reddit/tree/master/_old/SourceIt))
